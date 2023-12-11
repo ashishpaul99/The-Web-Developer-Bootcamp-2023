@@ -163,23 +163,20 @@ midterms -> {ashish: 96, paul: 78, john: 94}
 
 
 eg-1:Object is nested inside array
-const shoppingCart=[
-   {
-      product:"biscuts";
-      price=10;
-      qty=2;
-   }
-   {
-      product:"chocolate;
-      price=5;
-      qty=2;
-   }
-   {
-      product:"cakes";
-      price=40;
-      qty=3;
-   }
-]
+let cars = [
+  {
+    "color": "purple",
+    "type": "minivan",
+    "registration": new Date('2017-01-03'),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "station wagon",
+    "registration": new Date('2018-03-03'),
+    "capacity": 5
+  }
+];
 
 eg-2: Array and object is nested inside object.
 const students={
