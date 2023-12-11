@@ -217,7 +217,7 @@ const dayInWeek=7;
 
 ->Why let and const are introduced?
 
-->let arrows us to make a variable that we can reassign.
+->let allows us to make a variable that we can reassign.
 ->const makes a variable that is a constant value.
 
 
